@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://reclerusc.github.io/sitemap
+Sitemap: https://reclerusc.github.io/app/sitemap
+Sitemap: https://reclerusc.github.io/assets/sitemap
+Sitemap: https://reclerusc.github.io/css/sitemap
+Sitemap: https://reclerusc.github.io/includes/sitemap
+Sitemap: https://reclerusc.github.io/item/sitemap
+Sitemap: https://reclerusc.github.io/src/sitemap
